@@ -5,3 +5,6 @@
  ### 3.- Install all required npm packages by running `npm install` from the command line in the project root folder (where the package.json is located).
  ### 4.- Start the application by running `npm start` from the command line in the project root folder, this will launch a browser displaying the application.
 
+# Test Questions:
+### Question 6:
+Add Authentication using JWT create form to login and save the user info on local storage
